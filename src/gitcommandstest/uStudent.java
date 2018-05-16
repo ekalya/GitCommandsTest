@@ -48,6 +48,7 @@ public class uStudent {
     public void AddNew() {
         System.out.println("");
         System.out.println("222");
+        System.out.println("333");
     }
 
     /**
